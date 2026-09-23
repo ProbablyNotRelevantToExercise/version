@@ -12,6 +12,6 @@
   },
   "images": {
     "core": "ghcr.io/probablynotrelevanttoexercise/raspberrypi4-64-homeassistant",
-    "supervisor": "ghcr.io/home-assistant/aarch64-hassio-supervisor"
+    "supervisor": "ghcr.io/probablynotrelevanttoexercise/aarch64-hassio-supervisor"
   }
 }
