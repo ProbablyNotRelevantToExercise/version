@@ -1,0 +1,17 @@
+{
+  "channel": "stable",
+  "supervisor": "2026.06.2",
+  "homeassistant": {
+    "default": "2026.6.4.1",
+    "raspberrypi4-64": "2026.6.4.1",
+    "qemuarm-64": "2026.6.4.1"
+  },
+  "hassos": {
+    "rpi4-64": "18.0",
+    "generic-aarch64": "18.0"
+  },
+  "images": {
+    "core": "ghcr.io/probablynotrelevanttoexercise/raspberrypi4-64-homeassistant",
+    "supervisor": "ghcr.io/home-assistant/aarch64-hassio-supervisor"
+  }
+}
