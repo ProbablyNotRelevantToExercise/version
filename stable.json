@@ -10,11 +10,13 @@
     "homeassistant":  {
                           "default":  "2026.6.4.1",
                           "raspberrypi4-64":  "2026.6.4.1",
-                          "qemuarm-64":  "2026.6.4.1"
+                          "qemuarm-64":  "2026.6.4.1",
+                          "raspberrypi3-64":  "2026.6.4.1"
                       },
     "hassos":  {
                    "rpi4-64":  "18.0",
-                   "generic-aarch64":  "18.0"
+                   "generic-aarch64":  "18.0",
+                   "rpi3-64":  "18.0"
                },
     "images":  {
                    "core":  "ghcr.io/probablynotrelevanttoexercise/raspberrypi4-64-homeassistant",
