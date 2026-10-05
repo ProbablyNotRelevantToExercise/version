@@ -19,7 +19,7 @@
     "rpi3-64": "18.0"
   },
   "images": {
-    "core": "ghcr.io/probablynotrelevanttoexercise/raspberrypi3-64-homeassistant",
+    "core": "ghcr.io/probablynotrelevanttoexercise/raspberrypi4-64-homeassistant",
     "supervisor": "ghcr.io/probablynotrelevanttoexercise/aarch64-hassio-supervisor",
     "dns": "ghcr.io/home-assistant/{arch}-hassio-dns",
     "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
