@@ -8,8 +8,8 @@
   "observer": "2026.02.0",
   "multicast": "2026.02.0",
   "homeassistant": {
-    "default": "2026.6.4.5",
-    "raspberrypi4-64": "2026.6.4.5",
+    "default": "2026.6.4.6",
+    "raspberrypi4-64": "2026.6.4.6",
     "qemuarm-64": "2026.6.4.1",
     "raspberrypi3-64": "2026.6.4.1"
   },
