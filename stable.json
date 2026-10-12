@@ -1,7 +1,7 @@
 {
   "channel": "stable",
   "ota": "https://os-artifacts.home-assistant.io/{version}/{os_name}_{board}-{version}.raucb",
-  "supervisor": "2026.06.2",
+  "supervisor": "2026.06.2.1",
   "dns": "2026.02.0",
   "audio": "2026.02.0",
   "cli": "2026.06.0",
