@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "supervisor": "2026.06.2",
+  "supervisor": "2026.09.3",
   "dns": "2026.02.0",
   "audio": "2026.02.0",
   "cli": "2026.06.0",
   "observer": "2026.02.0",
   "multicast": "2026.02.0",
   "homeassistant": {
-    "default": "2026.6.4.6",
-    "raspberrypi4-64": "2026.6.4.6",
+    "default": "2026.10.1.1",
+    "raspberrypi4-64": "2026.10.1.1",
     "qemuarm-64": "2026.6.4.1",
     "raspberrypi3-64": "2026.6.4.1"
   },
@@ -19,8 +19,8 @@
   },
   "ota": "https://os-artifacts.home-assistant.io/{version}/{os_name}_{board}-{version}.raucb",
   "images": {
-    "core": "ghcr.io/probablynotrelevanttoexercise/{machine}-homeassistant",
-    "supervisor": "ghcr.io/home-assistant/{arch}-hassio-supervisor",
+    "core": "ghcr.io/probablynotrelevanttoexercise/raspberrypi4-64-homeassistant",
+    "supervisor": "ghcr.io/probablynotrelevanttoexercise/aarch64-hassio-supervisor",
     "dns": "ghcr.io/home-assistant/{arch}-hassio-dns",
     "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
     "cli": "ghcr.io/home-assistant/{arch}-hassio-cli",
