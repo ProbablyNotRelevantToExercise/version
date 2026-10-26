@@ -1,6 +1,6 @@
 {
   "channel": "stable",
-  "supervisor": "2026.06.2",
+  "supervisor": "2026.09.3",
   "dns": "2026.02.0",
   "audio": "2026.02.0",
   "cli": "2026.06.0",
